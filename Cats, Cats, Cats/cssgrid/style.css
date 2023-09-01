@@ -1,0 +1,27 @@
+body {
+    background-color: #f3a0ae !important;
+}
+
+
+.header{
+    font: bolder;
+    font-size: 20px;
+}
+ul{
+    display: inline;
+}
+.unorderedlist{
+    font-size: 15px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+p{
+    display: inline;
+}
+.image{
+    display: block!important;
+    margin-left: auto!important;
+    margin-right: 250px!important;
+    margin-top: 70px!important;
+    width: 50% !important;
+}
